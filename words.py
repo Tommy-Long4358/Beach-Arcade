@@ -1,0 +1,2 @@
+
+words = ["Shark", "Beach", "Sand", "Ocean", "fish", "dolphin", "Umbrella", "Starfish", "Coral", "Otter", "Crab", "Coast", "Tsunami", "Kelp", "Seaweed", "Jellyfish", "Lobster", "Oyster", "Seahorse", "Shrimp", "Whale", "Stingray", "Sandbox", "Surf", "Wave", "Submarine", "Island", "Bay", "Octopus", "Tidepool", "Turtle", "Pufferfish", "Seal", "Pufferfish", "Surfboard", "Boat", "Blowfish", "Swordfish", "Eel", "Anemone", "Algae", "Krill", "Coconut", "GoBeach", "Cody", "Crypto", "Byte"]
