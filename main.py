@@ -32,24 +32,24 @@ def validInput(range1, range2):
 def main():
   selection = 0
 
-# Will continuosuly loop allowing the user to play multiple games until they quit by entering 4
+  # Will continuosuly loop allowing the user to play multiple games until they quit by entering 4
   while selection != 4: 
-    menu()
+      menu()
 
-    selection = validInput(1, 4)
-     
-    if selection == 1:
-      
-      Hangman.main()
-    elif selection == 2:
-      
-      TicTacToe.main()
-    elif selection == 3:
-      
-      Madlibs.main()
+      selection = validInput(1, 4)
 
-    else:
-      print("Thanks for playing!")
+      if selection == 1:
+
+        hangman.main()
+      elif selection == 2:
+
+        ticTacToe.main()
+      elif selection == 3:
+
+        madlibs.main()
+
+      else:
+        print("Thanks for playing!")
   
 
 main()
